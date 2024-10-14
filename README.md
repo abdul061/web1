@@ -1,1 +1,1 @@
-# adiz-website
+# website
